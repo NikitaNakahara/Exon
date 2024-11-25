@@ -1,2 +1,9 @@
 # Exon
-Futuristic game on Kotlin
+Game on Kotlin with itself game engine
+
+## Libs
+uno
+gli
+gln
+LWJGL
+Assimp
